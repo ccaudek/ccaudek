@@ -1,5 +1,10 @@
 ### Hi there, I'm Corrado Caudek 👋
 
+- 🔭 I’m currently working on reinforcement learning algorithms
+- 🌱 I’m currently learning Python 
+- 💬 Ask me about R and Data Science
+- 📫 How to reach me: corrado.caudek@unifi.it, or @ccaudek
+
 ### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
