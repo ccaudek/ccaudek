@@ -1,7 +1,7 @@
 ### Hi there, I'm Corrado Caudek 👋
 
 - 🔭 I’m currently working on reinforcement learning algorithms
-- 🌱 I’m currently learning Julia 
+- 🌱  Learning about reproducibility and Open Science
 - 💬 Ask me about R and Data Science
 - 📫 How to reach me: corrado.caudek@unifi.it, or @ccaudek 
 
