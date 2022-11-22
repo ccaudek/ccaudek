@@ -28,10 +28,6 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 ![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 <!-- TODO: add Quarto -->
 
-<br />
-
-### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
-
 <hr>
 <br />
 
@@ -40,3 +36,8 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
 <!-- See: https://github.com/Naereen/badges -->
+
+<br />
+
+### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
+
