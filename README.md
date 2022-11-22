@@ -13,8 +13,6 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 
 #### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
 
-<br />
-
 ### 💻 Languages and Tools:
 <!-- See: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
