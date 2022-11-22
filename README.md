@@ -6,8 +6,6 @@
 **Data Scientist** by passion.  
 I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
 
-<br />
-
 - 🔭 I’m currently working on reinforcement learning algorithms
 - 🌱  Learning about reproducibility and Open Science
 - 💬 Ask me about R and Data Science
@@ -33,7 +31,6 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 <br />
 
 ### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
-
 
 <hr>
 <br />
