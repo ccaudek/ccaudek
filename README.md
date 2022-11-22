@@ -34,6 +34,7 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 <br />
 
 ![CC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccaudek&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark)
+
 ![CC's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaudek&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,perl,css,tex)
  
 <!-- Custom badges: https://shields.io/, https://webkul.github.io/myscale/, https://b64.io/, https://meyerweb.com/eric/tools/dencoder/ -->
