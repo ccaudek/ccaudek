@@ -1,6 +1,6 @@
 ### Hi there, I'm Corrado Caudek 👋
 
-#### About me:
+### About me:
 
 **Cognitive & Behavioral Psychologist** by training.  
 **Data Scientist** by passion.  
@@ -11,27 +11,7 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 - 💬 Ask me about R and Data Science
 - 📫 How to reach me: corrado.caudek@unifi.it, or @ccaudek 
 
-### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
-
-<!--
-**ccaudek/ccaudek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<hr>
-<br />
-
-## 💻 Languages and Tools:
+### 💻 Languages and Tools:
 <!-- See: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<!-- TODO: add Stan -->
@@ -45,6 +25,11 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 <!-- TODO: add Quarto -->
+
+### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
+
+<hr>
+<br />
 
 ![CC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccaudek&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=vision-friendly-dark)
 ![CC's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaudek&layout=compact&theme=vision-friendly-dark&langs_count=4&hide=html,perl,css,tex)
