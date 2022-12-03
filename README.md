@@ -6,7 +6,7 @@
 **Data Scientist** by passion.  
 I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
 
-- 🔭 I’m currently working on reinforcement learning algorithms
+- :mag: I'm currently working on reinforcement learning algorithms
 - 🌱  Learning Python 
 - :telescope: Interested in Open Science
 - 💬 Ask me about R and Data Science
