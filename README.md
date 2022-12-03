@@ -7,7 +7,8 @@
 I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
 
 - 🔭 I’m currently working on reinforcement learning algorithms
-- 🌱  Learning about Python and Open Science
+- 🌱  Learning Python 
+- :telescope: Interested in Open Science
 - 💬 Ask me about R and Data Science
 - 📫 How to reach me: corrado.caudek@unifi.it, or @ccaudek 
 
