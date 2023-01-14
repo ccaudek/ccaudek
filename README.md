@@ -35,5 +35,3 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 
 [![CC's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaudek)](https://github.com/ccaudek/github-readme-stats)
 
-[![CC's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccaudek)](https://github.com/ccaudek/github-readme-stats)
-
