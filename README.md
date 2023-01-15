@@ -28,4 +28,5 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 
 ### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaudek&layout=compact&theme=vision-friendly-dark)](https://github.com/ccaudek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaudek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
