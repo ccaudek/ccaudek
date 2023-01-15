@@ -27,11 +27,3 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 <!-- TODO: add Quarto -->
 
 ### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
-
-<hr>
-<br />
-
-[![CC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccaudek)](https://github.com/ccaudek/github-readme-stats)
-
-[![CC's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccaudek)](https://github.com/ccaudek/github-readme-stats)
-
