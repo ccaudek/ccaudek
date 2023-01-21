@@ -20,12 +20,4 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 ![Matlab](https://img.shields.io/badge/Matlab-FFF000?style=for-the-badge&logo=matlab&logoColor=black)
 ![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)<br>
 
-![RStudio](https://img.shields.io/badge/R_Studio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-<!-- TODO: add Quarto -->
-
 ### Glad to see you here! ![visitors](https://visitor-badge.deta.dev/badge?page_id=ccaudek&left_color=red&right_color=green)
