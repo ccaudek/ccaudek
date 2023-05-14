@@ -12,7 +12,7 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 - 🔬 I'm currently working on reinforcement learning algorithms
 - :telescope: Interested in Open Science
 - 💬 Ask me about R and Data Science
-- 📫 How to reach me: corrado.caudek@unifi.it, or @ccaudek@mastodon.uno
+- 📫 How to reach me: caudek@gmail.com
 
 <!-- See: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
