@@ -20,4 +20,6 @@ I'm interested in cognitive & computational models of the mind, as well as indiv
 ![Matlab](https://img.shields.io/badge/Matlab-FFF000?style=for-the-badge&logo=matlab&logoColor=black)
 ![C](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)<br>
 
-### Glad to see you here! ![Visitor Count](https://profile-counter.glitch.me/{ccaudek}/count.svg)
+### Glad to see you here! 
+
+![Visitor Count](https://profile-counter.glitch.me/{ccaudek}/count.svg)
