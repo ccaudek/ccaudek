@@ -5,9 +5,7 @@
 
 ### About me:
 
-**Cognitive & Behavioral Psychologist** by training.  
-**Data Scientist** by passion.  
-I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
+**Cognitive & Behavioral Psychologist** by training. **Data Scientist** by passion. I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
 
 - 🔬 I'm currently working on reinforcement learning algorithms
 - :telescope: Interested in Open Science
