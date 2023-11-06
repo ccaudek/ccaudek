@@ -7,7 +7,7 @@
 
 **Cognitive & Behavioral Psychologist** by training. **Data Scientist** by passion. I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
 
-- 🔬 I'm currently working on reinforcement learning algorithms and mood dynamics
+- 🔬 I'm currently working on reinforcement learning, individual differences, and mood dynamics
 - :telescope: Interested in Open Science
 - 💬 Ask me about R and Data Science
 - 📫 How to reach me: caudek@gmail.com
