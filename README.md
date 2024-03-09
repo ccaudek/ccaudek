@@ -9,8 +9,7 @@
 
 - 🔬 I'm currently working on reinforcement learning, individual differences, and mood dynamics
 - :telescope: Interested in Open Science
-- 💬 Ask me about R and Data Science
-- 📫 How to reach me: caudek@gmail.com
+- 📫 How to reach me: caudek at gmail dot com
 
 <!-- See: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
