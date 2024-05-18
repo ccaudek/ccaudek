@@ -12,7 +12,6 @@
 - Reinforcement Learning
 - Individual Differences
 - Cognitive Processes
-- Mood Dynamics
 - Probability and Statistics 
 - Bayesian Analysis 
 - Open Science 
