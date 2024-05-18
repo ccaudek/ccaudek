@@ -20,7 +20,8 @@ Computational Models of the Mind • Reinforcement Learning • Individual Diffe
 
 ---
 
-## Glad to see you here
+<h2 style="font-weight: normal;">Glad to see you here</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/{ccaudek}/count.svg)
+<img src="https://profile-counter.glitch.me/{ccaudek}/count.svg" alt="Visitor Count">
+
 
