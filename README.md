@@ -1,21 +1,8 @@
-<h1>
-  Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-## About me:
-
-**Cognitive & Behavioral Psychologist** by training. **Data Scientist** by passion. I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
+# Psychologist & Data Scientist
 
 ## Interests
 
-- Reinforcement Learning
-- Individual Differences
-- Cognitive Processes
-- Probability and Statistics 
-- Bayesian Analysis 
-- Open Science 
-- Knowledge Sharing 
+Computational Models of the Mind • Reinforcement Learning • Individual Differences • Cognitive Processes • Probability and Statistics • Bayesian Analysis • Open Science • Knowledge Sharing 
 
 ---
 
@@ -33,7 +20,7 @@
 
 ---
 
-## Glad to see you here! 
+## Glad to see you here
 
 ![Visitor Count](https://profile-counter.glitch.me/{ccaudek}/count.svg)
 
