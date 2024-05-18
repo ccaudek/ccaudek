@@ -18,10 +18,6 @@
 - Open Science 
 - Knowledge Sharing 
 
-## Contact
-
-**Personal Website:** [ccaudek.github.io](https://ccaudek.github.io/caudeklab/)
-
 ---
 
 ## Tech Stack
