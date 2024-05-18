@@ -3,13 +3,44 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### About me:
+## About me:
 
 **Cognitive & Behavioral Psychologist** by training. **Data Scientist** by passion. I'm interested in cognitive & computational models of the mind, as well as individual differences in cognitive styles and clinical psycholgy.
 
-- 🔬 I'm currently working on reinforcement learning, individual differences, and mood dynamics
-- :telescope: Interested in Open Science
+## Interests
 
-### Glad to see you here! 
+- Reinforcement Learning
+- Individual Differences
+- Mood Dynamics
+- Probability and Statistics 
+- Bayesian Analysis 
+- Causal Inference 
+- Visualization 
+- Clean Code 
+- Open Science 
+- Knowledge Sharing 
+
+## Contact
+
+**Personal Website:** [ccaudek.github.io](https://ccaudek.github.io/caudeklab/)
+
+---
+
+## Tech Stack
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r-project" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="55" height="55"/> 
+</p>
+
+---
+
+## Glad to see you here! 
 
 ![Visitor Count](https://profile-counter.glitch.me/{ccaudek}/count.svg)
+
