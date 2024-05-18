@@ -15,8 +15,6 @@
 - Probability and Statistics 
 - Bayesian Analysis 
 - Causal Inference 
-- Visualization 
-- Clean Code 
 - Open Science 
 - Knowledge Sharing 
 
