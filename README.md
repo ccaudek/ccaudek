@@ -10,4 +10,4 @@ Computational Models of the Mind • Reinforcement Learning • Individual Diffe
 
 <img src="https://profile-counter.glitch.me/{ccaudek}/count.svg" alt="Visitor Count">
 
-
+![Corrado's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccaudek)
