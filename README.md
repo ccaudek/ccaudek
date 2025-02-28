@@ -7,3 +7,5 @@ Computational Models of the Mind • Reinforcement Learning • Individual Diffe
 <h2 style="font-weight: normal;">Glad to see you here</h2>
 
 <img src="https://profile-counter.glitch.me/{ccaudek}/count.svg" alt="Visitor Count">
+
+![Corrado's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccaudek)
