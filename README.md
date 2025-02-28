@@ -1,6 +1,6 @@
 
 
-# Psychologist & Data Scientist
+# Psychologist
 
 ## Interests
 
